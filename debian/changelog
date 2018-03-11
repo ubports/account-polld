@@ -1,3 +1,9 @@
+account-polld (0.2-0ubuntu2) xenial; urgency=medium
+
+  * No change re-build for xenial
+
+ -- Dan Chapman <dan@ubports.com>  Sun, 11 Mar 2018 12:37:50 +0000
+
 account-polld (0.2-0ubuntu1) vivid; urgency=medium
 
   * Rewrite deamon: move plugins into separate processes, started on demand.
